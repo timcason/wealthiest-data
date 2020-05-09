@@ -1,4 +1,4 @@
-year, rank, name, net worth, age, location, company
+year, rank, name, net_worth, age, location, company
 2018,1,Jeff Bezos,112000000000,54,United States,Amazon
 2018,2,Bill Gates,90000000000,62,United States,Microsoft
 2018,3,Warren Buffett,84000000000,87,United States,Berkshire Hathaway
